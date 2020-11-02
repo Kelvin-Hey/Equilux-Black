@@ -4,4 +4,4 @@ Esse tema GTK é baseado em outro tema chamado [Equilux-compact](https://github.
 
 ## Créditos
 
-Todos os créditos para [Materia Theme](https://github.com/nana-4/materia-theme) e [Equilux-compact](https://github.com/ddnexus/equilux-theme) seus autores e colaboradores.
+Todos os créditos para [Materia Theme](https://github.com/nana-4/materia-theme), [Equilux-compact](https://github.com/ddnexus/equilux-theme) seus autores e colaboradores.
