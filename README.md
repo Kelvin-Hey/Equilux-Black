@@ -1,6 +1,6 @@
 # Equilux-Black
 
-Esse tema GTK é baseado em outro tema chamado [Equilux-compact](https://github.com/ddnexus/equilux-theme), fiz algumas modificações em seu aspecto com o intuíto de deixálo com as cores em escala de preto.
+Esse tema GTK é baseado em outro tema chamado [Equilux-compact](https://github.com/ddnexus/equilux-theme), fiz algumas modificações em seu aspecto com o intuito de deixá-lo com as cores em escala de preto.
 
 ## Créditos
 
